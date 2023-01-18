@@ -23,7 +23,7 @@ function calculateAll() {
     total += updateSubtotal(allProducts)
       //console.log(allProducts)
     })
-
+///Hello
   // ITERATION 3
   
   document.querySelector('#total-value span').innerText = total
